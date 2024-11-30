@@ -1,2 +1,5 @@
-# AI-Powered Medical chat bot
- AI medical chat developed for specailly underdeveloped areas and this chat bot trained specially in mental health and home remedies and many feature include like asking your problem in your comfortable language like hindi or english you want to text as well audio tab speaking both way  and add pdf recognizer like your medical report analyse and understand report language step by step and give optimal solution based on problem
+AI-Powered Medical Chatbot
+This AI-driven medical chatbot is tailored to address the unique challenges faced in underdeveloped regions. With a focus on mental health support and home remedies, it offers several advanced features:
+
+Communicate in the language you're most comfortable with—Hindi or English, through both text and voice input options.
+Analyze uploaded medical reports with its PDF recognition tool, breaking down the content into understandable steps and offering tailored solutions for your issues.
